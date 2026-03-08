@@ -1,0 +1,22 @@
+﻿Android Practical Questions
+
+1. Create a standard calculator application in Android.
+      Build a fully functional calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+2. Create a simple "Hello World" application in Android and explain the purpose of MainActivity and activity_main.xml.
+      Develop a basic app that displays "Hello World" and then describe the role of the main activity class (the controller) and the layout XML file (the user interface definition).
+3. Create a login screen with EditText fields for username and password and a submit button. Include validation for empty fields.
+      Design a login interface that checks if either field is empty and shows appropriate error messages.
+4. Create an Android application that displays an alert dialog when the back button is pressed.
+      Implement an onBackPressed() method that shows a confirmation dialog before allowing the user to exit.
+5. Explain the Android activity lifecycle in detail, and create an app to demonstrate it.
+      Describe each callback (onCreate(), onStart(), onResume(), onPause(), onStop(), onDestroy(), onRestart()) and build an app that logs lifecycle events to illustrate them.
+6. Create an Android application to pass data from one activity to another using an Intent. (10–12 lines of code will be sufficient.)
+      Develop two activities: the first accepts user input and sends it to the second activity via putExtra(), where it is displayed.
+7. Implement a custom color scheme for your registration form: set the background color of the entire layout to a light color and use a contrasting color for the submit button.
+      Apply styling using XML attributes or a theme to achieve a visually appealing registration form.
+8. Create an Android application that automatically notifies users when airplane mode is turned off or on using a BroadcastReceiver.
+      Register a receiver for Intent.ACTION_AIRPLANE_MODE_CHANGED and show a Toast or notification when the state changes.
+
+---
+
+Note: Spelling errors in the original list have been corrected for clarity. If any specific phrasing or requirement was intended differently, please adjust accordingly.
